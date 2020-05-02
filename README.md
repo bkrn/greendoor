@@ -12,7 +12,7 @@ window should work as really really small
 
 ### Service
 
-Golang, no framework in memory only, minimize server side state
+Rust, no framework in memory only, minimize server side state
 
 Does:
 1. Serve room page ourhost.com/roomId (by room ID shared out of band)
