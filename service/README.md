@@ -1,3 +1,8 @@
+## ENV
+
+ASSETS_PATH= path to directory containing index.html and the assets directory. Absolute or relative to executable.
+
+
 ## Services I Service
 
 ### HTTP

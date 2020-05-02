@@ -1,12 +1,20 @@
 # greendoor
 A web game that is fun
 
+## Development
+
+Html pages should just work opened in browser for dumb dev cycle.
+
+To start service `cd service && cargo run &` - should launch on 127.0.0.1:3030
+
+To start evauator - TBD
+
 
 ## Development Rules
 
 ### Client
 
-Vanilla ES6 no NPM or other package managers. SPA with entrance in /index.html
+Vanilla ES6 no NPM or other package managers. Entrance in /index.html
 
 window should work as really really small
 

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/aaron/Projects/greendoor/service/target/debug/build/typenum-fd0e99a42fedf443/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/aaron/Projects/greendoor/service/target/debug/build/typenum-fd0e99a42fedf443/out/op.rs
